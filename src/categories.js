@@ -1,3 +1,3 @@
-const categories = ['komedie', 'romanticky', 'akcni'];
+const categories = ['komedie', 'romantický', 'akční', 'horory'];
 
 export default categories;
